@@ -1,0 +1,24 @@
+{
+  "theme": "dark",
+  "theme_values": {
+    "window_bg": "#101318",
+    "panel_bg": "#1A1F2B",
+    "card_bg": "#262D3A",
+    "display_bg": "#242B3D",
+    "text_main": "#F2F5FF",
+    "text_secondary": "#AEB9CF",
+    "text_muted": "#8FA2C8",
+    "button_num": "#2B3348",
+    "button_num_active": "#36405A",
+    "button_fn": "#303956",
+    "button_fn_active": "#3A4566",
+    "button_accent": "#4F7CFF",
+    "button_accent_active": "#6A93FF",
+    "progress_trough": "#2A3142",
+    "progress_bar": "#4F7CFF"
+  },
+  "geometry": "480x991+111+19",
+  "active_tab": 1,
+  "calculator_history": [],
+  "notepad_text": "CFG BY KEREI GITHUB VERSION"
+}
